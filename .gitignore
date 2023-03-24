@@ -1,0 +1,13 @@
+.project
+.vscode/
+iar/Debug/
+.metadata/
+tools/
+rtos/
+docs/
+CMSIS/
+*.md
+*.dtd
+*.png
+*.bat
+*.icf
